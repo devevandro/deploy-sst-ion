@@ -1,0 +1,19 @@
+{
+  "name": "sst-ion-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sst": "ion"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.137",
+    "aws-lambda": "^1.0.7"
+  }
+}
